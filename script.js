@@ -82,7 +82,7 @@ new Vue({
           source: "https://audio.jukehost.co.uk/4VIblqYJVoFKEzAxWzJFFoe5FQRANFTe",
           url: "https://www.youtube.com/watch?v=vK14NhODTuE",
           favorited: false
-        }
+        },
         {
           name: "Choo Lo",
           artist: "The Local Train",
