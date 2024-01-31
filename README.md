@@ -78,4 +78,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact Information
 
 For inquiries and support, please contact DXD [here](https://dhrub006.github.io/ProfileCardUI/).
-```
