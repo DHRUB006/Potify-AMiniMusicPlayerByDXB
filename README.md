@@ -3,15 +3,20 @@
 ![Preview](https://github.com/DHRUB006/DHRUB_DXD-Projects/assets/106004326/aaeb9793-9435-4b4d-97fb-779b9443982d)
 
 ## Table of Contents
+
+- [Demo](#demo)
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Contribution Guidelines](#contribution-guidelines)
 - [License](#license)
 - [Contact Information](#contact-information)
+
+## Demo
+
+Check out the live demo: [Fireworks New Year Demo](https://dhrub006.github.io/Potify-AMiniMusicPlayerByDXB/)
 
 ## Introduction
 
@@ -39,7 +44,7 @@ Welcome to Potify - A Mini Music Player! This project is a simple and elegant mu
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/potify.git
+   git clone https://github.com/DHRUB006/Potify-AMiniMusicPlayerByDXB.git
    ```
 
 2. Navigate to the project directory:
@@ -55,11 +60,6 @@ Welcome to Potify - A Mini Music Player! This project is a simple and elegant mu
 1. Add your favorite music tracks to the `tracks` array in `main.js`.
 2. Open `index.html` in your web browser.
 3. Explore the features of Potify!
-
-## Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
 
 ## Contribution Guidelines
 
@@ -77,5 +77,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact Information
 
-For inquiries and support, please contact DXB at dxb@example.com.
+For inquiries and support, please contact DXD [here](https://dhrub006.github.io/ProfileCardUI/).
 ```
